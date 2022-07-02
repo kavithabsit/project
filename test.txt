@@ -2,4 +2,8 @@ Hey this is kavitha
 Welcome
 thanks
 a=20
+<<<<<<< HEAD
 main add =50
+=======
+b=30
+>>>>>>> newbranch
